@@ -67,10 +67,13 @@ nav a:hover {
 }
 
 .hero-contenido {
-    background: rgba(0, 0, 0, 0.55);
-    padding: 40px;
-    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.90);
+    backdrop-filter: blur(10px);
+    padding: 35px 50px;
+    border-radius: 18px;
     max-width: 700px;
+    text-align: center;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.2);
 }
 
 .hero h2 {
